@@ -4,6 +4,7 @@ html, body {
     height: 100%;
     margin: 0;
     display: flex;
+    flex-direction: column; 
     justify-content: center; /* Centers horizontally */
     align-items: center; /* Centers vertically */
     text-align: center; /* Centers text inside */
