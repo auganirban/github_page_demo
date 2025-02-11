@@ -1,7 +1,10 @@
-html {
+html, body {
     background-color: white;
-}
-
-p, h1 {
     color: black;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    text-align: center; /* Centers text inside */
 }
