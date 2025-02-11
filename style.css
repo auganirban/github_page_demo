@@ -8,3 +8,7 @@ html, body {
     align-items: center; /* Centers vertically */
     text-align: center; /* Centers text inside */
 }
+
+h1 {
+    margin-bottom: 20px; /* Adds space below the heading */
+}
